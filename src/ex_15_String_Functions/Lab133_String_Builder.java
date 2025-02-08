@@ -5,7 +5,7 @@ public class Lab133_String_Builder {
 
 
         // String - > 90%
-        // StringBuilder -> 5-7% (Thread safty - we avoid it)
+        // StringBuilder -> 5-7% (Thread safety - we avoid it)
         // ThreadLocal -> Multi Threading ->
 
 
