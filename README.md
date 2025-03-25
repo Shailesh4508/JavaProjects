@@ -24,16 +24,7 @@ Below is a list of Java topics covered in this repository:
 | 14 | Strings                                  |
 | 15 | String Functions                         |
 | 16 | Arrays                                   |
-| 17 | Object-Oriented Programming (OOP)       |
-| 18 | OOPs - Constructors                      |
-| 19 | OOPs - Part 2                            |
-| 20 | OOPs - Super & Abstraction               |
-| 21 | Static                                   |
-| 22 | ENUM                                     |
-| 23 | Wrapper Class                            |
-| 24 | Exceptions                               |
-| 25 | Generics                                 |
-| 26 | Collection Framework                     |
+
 
 ## How to Use
 - Each topic contains detailed explanations and example programs.
