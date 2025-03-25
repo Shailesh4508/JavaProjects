@@ -43,9 +43,6 @@ Below is a list of Java topics covered in this repository:
 ## Contributing
 If you would like to contribute to this repository, feel free to submit a pull request with additional topics, improved explanations, or optimized code examples.
 
-## License
-This repository is open-source and available for educational purposes.
-
 ---
 
 Happy Coding! 🚀
